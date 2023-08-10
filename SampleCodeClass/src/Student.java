@@ -13,6 +13,7 @@ public class Student {
     int RE;
     int SDA;
     int SQAT;
+    int x;
     int SEAM;
     int FM;
    
@@ -37,6 +38,8 @@ public class Student {
  {
      System.out.println("Hello");
      return;
+}
+void myTest(){
 }
 
 }
